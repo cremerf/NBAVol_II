@@ -31,5 +31,20 @@ The following methods were used in this project:
 6) Classification
 7) Gradient Descent
 
-#### Results
+##### Results
+
+1)
+2)
+3)
+
+##### How to Use
+
+1)
+2)
+3)
+
+#### Conclusion
+
+To summarize, this project showcases the successful implementation of several predictive models on a specific dataset, achieving the predefined objectives and generating valuable insights. The project's outcomes can serve as a useful reference for similar predictive modeling tasks and highlight the practical application of machine learning in data analysis and decision-making
+
 
